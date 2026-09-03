@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The odin Lasagna</title>
+</head>
+<body>
+    <h1>The odin Lasagna</h1>
+    <img src="../img/lasagna.jpg" alt="lasagna-img" height="400" width="800"/><br/>
+    
+    <h3>La lasagna de odin</h3>
+    <p>
+        Que tal hermanos hoy vamos a preparar la famosa lasagna que llevo a odin al trono
+    </p>
+    <h3>Usa los ingredientes que uso odin</h3>
+    <ul>
+        <li>1/2 de kg de salchicha italiana</li>
+        <li>1/4 de kg de carne molida</li>
+        <li>1/2 cebolla</li>
+        <li>2 dientes de ajo</li>
+        <li>1/4 de jitomates</li>
+        <li>1 cubito de salsa de tomate</li>
+        <li>1 cubito de pasta de tomate</li>
+        <li>1/2 tasa de agua</li>
+        <li>2 cucharadas de azucar</li>
+        <li>4 cucharadas de perejil picado</li>
+        <li>1 1/2 cucharaditas de hojas de albahaca seca</li>
+        <li>1 1/2 cucharaditas de sal, dividida, o al gusto</li>
+        <li>1 cucharadita de condimento italiano</li>
+        <li>1/2 cucharadita de semillas de hinojo</li>
+        <li>1/4 de cucharadita de pimienta negra molida</li>
+        <li>12 laminas de lasagna</li>
+        <li>16 onzas de queso ricotta</li>
+        <li>1 huevo grande</li>
+        <li>1/4 de kg de queso mozzarella, en rebanadas</li>
+        <li>3/4 de taza de queso parmesano rallado</li>
+    </ul>
+    <h3>Sigue los pasos de odin</h3>
+    <ol>
+        <li>Reune todos tus ingredientes.</li>
+        <li>Cocina la salchicha, la carne molida, la cebolla y 
+            el ajo en una olla de hierro fundido a fuego medio 
+            hasta que esten bien dorados.</li>
+        <li>Incorpora el tomate triturado, la salsa de tomate, 
+            la pasta de tomate y el agua. Condimenta con azucar, 
+            2 cucharadas de perejil, albahaca, 
+            1 cucharadita de sal, condimento italiano, 
+            semillas de hinojo y pimienta. Cocina a fuego lento, 
+            tapado, durante aproximadamente una hora y media, 
+            removiendo de vez en cuando.</li>
+        <li>Lleve a ebullicion una olla grande con agua ligeramente 
+            salada. Cocine las laminas de lasagna en el agua 
+            hirviendo durante 8 a 10 minutos. Escurra las láminas y 
+            enjuaguelas con agua fria.</li>
+        <li>En un recipiente, mezcla el queso ricotta con el huevo, 
+            las 2 cucharadas de perejil restantes y media cucharadita 
+            de sal.</li>
+        <li>Precalienta el horno a 375 F (190 C).</li>
+        <li>Para el montaje, extienda 1 1/2 tazas de salsa de carne en 
+            el fondo de una fuente para hornear de 9x13 pulgadas. 
+            Coloque 6 laminas de pasta a lo largo sobre la salsa de carne, 
+            superponiendolas ligeramente. Extienda la mitad de la mezcla de 
+            queso ricotta. Cubra con un tercio de las rebanadas de queso 
+            mozzarella. Distribuya 1 1/2 tazas de salsa de carne sobre la 
+            mozzarella y espolvoree con 1/4 de taza de queso parmesano.</li>
+        <li>Repita las capas y cubra con el resto de la mozzarella y el queso 
+            parmesano. Cubra con papel de aluminio; para evitar que se pegue, 
+            rocie el papel con aceite en aerosol o asegurese de que no 
+            toque el queso.</li>
+        <li>Hornee en el horno precalentado durante 25 minutos. Retire el 
+            papel de aluminio y hornee durante otros 25 minutos.</li>
+        <li>Deja reposar la lasagna a temperatura ambiente durante unos 
+            15 minutos antes de cortarla; esto ayuda a que se asiente y 
+            adquiera firmeza.</li>
+    </ol>
+    <a href="../index.html">Home</a>
+</body>
+</html>
